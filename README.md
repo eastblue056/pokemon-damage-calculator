@@ -1,4 +1,4 @@
-# Pokémon Damage Calculator (Simple Python Project)
+# Pokémon Damage Calculator 
 
 A Python Script that simulates how much damage an attacking Pokémon does to a defending Pokémon.  
 You can input the Pokémon names, the move’s base power, and the effectiveness multiplier (e.g. *super effective* or *not very effective*) — then the program calculates the final damage.
