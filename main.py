@@ -14,3 +14,4 @@ effectivness = float(input("please enter the effectiveness multiplier (2 for sup
 damage = move_power * effectivness
 print(f"{attacker_pkmn} used a move!!")
 print(f"{attacker_pkmn} dealt {damage} damage to {defender_pkmn}!!")
+
